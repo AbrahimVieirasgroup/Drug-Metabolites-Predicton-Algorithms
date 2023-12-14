@@ -1,7 +1,7 @@
 # Drug-Metabolites-Predicton-Algorithms
 
-Table 1. Software/servers available for metabolite prediction.
-| Software/Server                              | Reference                                       | Free/Paid |
+**Table 1. Software/servers available for metabolite prediction.**
+| **Software/Server**                              | **Reference**                                       | **Free/Paid** |
 |-----------------------------------------------|--------------------------------------------------|---------------|
 | QSAR Toolbox (OECD/ECHA)                       | [10.1007/978-1-4939-7899-1_2](https://doi.org/10.1007/978-1-4939-7899-1_2) | Free      |
 | Biotransformer3.0                             | [10.1093/nar/gkac313](https://doi.org/10.1093/nar/gkac313) | Free      |
